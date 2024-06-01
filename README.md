@@ -6,4 +6,5 @@ Objective: Classify DNA sequences and find the best machine learning tool for cl
 
 A) GENERATE DATA
 1) Create a csv of genes and their corresponding sequences using the Eukaryotic Promoter Database
-2)Import data   
+
+2) Import data   
